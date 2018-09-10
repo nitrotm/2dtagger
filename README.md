@@ -1,9 +1,5 @@
 # 2D image tagger
 
-author: Antony Ducommun dit Boudry
-
-license: GPLv3
-
 This tool can import photos and tag them:
 
 - import one or more source images with optional mask
@@ -21,3 +17,7 @@ This tool can import photos and tag them:
 ```
 python3 app.py
 ```
+
+## License
+
+GPLv3
