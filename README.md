@@ -7,4 +7,5 @@ This tool can import photos and tag them:
 - exports masks to images
 
 author: Antony Ducommun dit Boudry
+
 license: GPLv3
